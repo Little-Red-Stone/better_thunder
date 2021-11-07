@@ -32,3 +32,5 @@ onethingcloud    玩客云
 ### ! 声明 !
 本软件仅用于学习研究使用, 请于下载后24小时内自行删除
 ![img](https://github.com/itsXZH/better_thunder/blob/main/img/AppIcon.png?raw=true)
+![img](https://github.com/itsXZH/better_thunder/blob/main/Screen%20Shot%201.png?raw=true)
+![img](https://github.com/itsXZH/better_thunder/blob/main/Screen%20Shot%202.png?raw=true)
