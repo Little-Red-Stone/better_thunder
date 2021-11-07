@@ -144,7 +144,7 @@ while 1:
             if 10 <= mx <= 310 and 100 <= my < 130 and BT.window == 0:
                 BT.window=1
             if 10 <= mx <= 310 and 140 <= my < 170 and BT.window == 0:
-                os.system("open /Users/xzh/Desktop/better_thunder/Details.txt")
+                os.system("open Details.txt")
             if 10 <= mx <= 310 and 180 <= my < 210 and BT.window == 0:
                 BT.window=2
             if 10 <= mx <= 110 and 60 <= my < 90 and BT.window != 0:
